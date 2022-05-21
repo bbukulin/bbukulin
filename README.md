@@ -1,14 +1,11 @@
 
-# Hi, I'm Borna! 👋
-
+## Hi, I'm Borna! 👋
 
 ## 🚀 About Me
-I'm junior front-end developer and UI/UX designer with strong desire to learn new things and gain new experiences
-
+Junior front-end developer and UI/UX designer with strong desire to learn new things and gain new experiences
 
 ## 🛠 Skills
 HTML, CSS, Tailwind CSS, Javascript, React
-
 
 ## More details
 👩‍💻 I'm currently looking for internship
@@ -18,8 +15,6 @@ HTML, CSS, Tailwind CSS, Javascript, React
 👯‍♀️ I'm looking to collaborate on more advanced React-based projects
 
 📫 How to reach me: 
-
-
 
 
 ## 🔗 Links
