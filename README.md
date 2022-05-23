@@ -2,10 +2,8 @@
 ## Hi, I'm Borna! 👋
 
 ##  Skills
-- HTML, CSS 
-- Tailwind CSS 
-- Javascript
-- React
+- HTML, CSS, Tailwind 
+- Javascript, React
 - NodeJS, Express
 
 ## About Me
