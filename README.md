@@ -7,8 +7,6 @@
 - NodeJS, Express
 
 ## About Me
-:mag_right: I'm currently looking for internship
-
 :zap: I'm currently learning more complex React principles
 
 :stars: I'm looking to collaborate on more advanced React-based projects
